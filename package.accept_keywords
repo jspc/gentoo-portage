@@ -1,0 +1,26 @@
+#required by dev-haskell/alsa-mixer-0.1.2, required by alsa-mixer (argument)
+=dev-haskell/alsa-core-0.5 ~amd64
+#required by alsa-mixer (argument)
+=dev-haskell/alsa-mixer-0.1.2 ~amd64
+#required by dev-python/snakefire-1.0.4, required by snakefire (argument)
+=dev-python/pyfire-0.3.4 ~amd64
+#required by snakefire (argument)
+=dev-python/snakefire-1.0.4 ~amd64
+#required by dev-db/mongodb-2.0.6[-v8], required by mongodb (argument)
+=dev-lang/spidermonkey-1.7.0-r2 ~amd64
+#required by mongodb (argument)
+=dev-db/mongodb-2.0.6 ~amd64
+#required by dev-db/mongodb-2.0.6, required by mongodb (argument)
+=app-arch/snappy-1.0.4 ~amd64
+#required by dev-db/mongodb-2.0.6[mms-agent], required by mongodb (argument)
+=dev-python/pymongo-2.2 ~amd64
+#required by media-sound/skype-call-recorder-0.8, required by media-sound/skype-call-recorder (argument)
+=net-im/skype-4.0.0.8-r1 ~amd64
+#required by media-sound/skype-call-recorder (argument)
+=media-sound/skype-call-recorder-0.8 ~amd64
+#required by net-im/skypetab-ng (argument)
+=net-im/skypetab-ng-0.5.0-r1 ~amd64
+#required by dev-java/icedtea-web-1.3-r7
+=dev-java/icedtea-7.2.3.2 ~amd64
+#required by dev-java/icedtea-7.2.3.2[nsplugin], required by dev-java/icedtea (argument)
+=dev-java/icedtea-web-1.3-r7 ~amd64

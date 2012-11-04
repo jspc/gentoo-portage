@@ -1,0 +1,50 @@
+#required by app-emulation/emul-linux-x86-medialibs-20120520, required by app-emulation/emul-linux-x86-soundlibs-20120520-r2, required by net-im/skype-4.0.0.8-r1, required by net-im/skypetab-ng-0.5.0-r1, required by net-im/skypetab-ng (argument)
+# /usr/portage/profiles/features/64bit-native/package.mask:
+# AMD64 Team <amd64@gentoo.org>
+# Mask packages that rely on amd64 multilib
+=app-emulation/emul-linux-x86-xlibs-20120520
+#required by media-sound/skype-call-recorder (argument)
+# /usr/portage/profiles/arch/amd64/no-multilib/package.mask:
+# AMD64 Team <amd64@gentoo.org>
+# Mask packages that rely on amd64 multilib
+=media-sound/skype-call-recorder-0.8
+#required by app-emulation/emul-linux-x86-qtlibs-20120520, required by net-im/skypetab-ng-0.5.0-r1, required by net-im/skypetab-ng (argument)
+# /usr/portage/profiles/features/64bit-native/package.mask:
+# AMD64 Team <amd64@gentoo.org>
+# Mask packages that rely on amd64 multilib
+=app-emulation/emul-linux-x86-opengl-20120520
+#required by net-im/skype-4.0.0.8-r1[-qt-static], required by net-im/skypetab-ng-0.5.0-r1, required by net-im/skypetab-ng (argument)
+# /usr/portage/profiles/features/64bit-native/package.mask:
+# AMD64 Team <amd64@gentoo.org>
+# Mask packages that rely on amd64 multilib
+=app-emulation/emul-linux-x86-qtlibs-20120520
+#required by app-emulation/emul-linux-x86-xlibs-20120520, required by app-emulation/emul-linux-x86-medialibs-20120520, required by app-emulation/emul-linux-x86-soundlibs-20120520-r2, required by net-im/skype-4.0.0.8-r1, required by net-im/skypetab-ng-0.5.0-r1, required by net-im/skypetab-ng (argument)
+# /usr/portage/profiles/features/64bit-native/package.mask:
+# AMD64 Team <amd64@gentoo.org>
+# Mask packages that rely on amd64 multilib
+=app-emulation/emul-linux-x86-baselibs-20120520
+#required by app-emulation/emul-linux-x86-qtlibs-20120520, required by net-im/skypetab-ng-0.5.0-r1, required by net-im/skypetab-ng (argument)
+# /usr/portage/profiles/features/64bit-native/package.mask:
+# AMD64 Team <amd64@gentoo.org>
+# Mask packages that rely on amd64 multilib
+=app-emulation/emul-linux-x86-medialibs-20120520
+#required by media-sound/skype-call-recorder-0.8, required by media-sound/skype-call-recorder (argument)
+# /usr/portage/profiles/features/64bit-native/package.mask:
+# AMD64 Team <amd64@gentoo.org>
+# Mask packages that rely on amd64 multilib
+=net-im/skype-4.0.0.8-r1
+#required by net-im/skypetab-ng (argument)
+# /usr/portage/profiles/features/64bit-native/package.mask:
+# AMD64 Team <amd64@gentoo.org>
+# Mask packages that rely on amd64 multilib
+=net-im/skypetab-ng-0.5.0-r1
+#required by app-emulation/emul-linux-x86-medialibs-20120520, required by app-emulation/emul-linux-x86-qtlibs-20120520, required by net-im/skypetab-ng-0.5.0-r1, required by net-im/skypetab-ng (argument)
+# /usr/portage/profiles/features/64bit-native/package.mask:
+# AMD64 Team <amd64@gentoo.org>
+# Mask packages that rely on amd64 multilib
+=app-emulation/emul-linux-x86-soundlibs-20120520-r2
+#required by app-emulation/emul-linux-x86-medialibs-20120520, required by app-emulation/emul-linux-x86-soundlibs-20120520-r2, required by net-im/skype-4.0.0.8-r1, required by net-im/skypetab-ng-0.5.0-r1, required by net-im/skypetab-ng (argument)
+# /usr/portage/profiles/features/64bit-native/package.mask:
+# AMD64 Team <amd64@gentoo.org>
+# Mask packages that rely on amd64 multilib
+=app-emulation/emul-linux-x86-db-20120520

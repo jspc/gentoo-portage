@@ -1,0 +1,4 @@
+#required by virtual/jre-1.6.0, required by dev-java/java-config-2.1.11-r3
+>=dev-java/sun-jre-bin-1.6.0.31 Oracle-BCLA-JavaSE
+#required by media-sound/skype-call-recorder-0.8, required by media-sound/skype-call-recorder (argument)
+>=net-im/skype-4.0.0.8-r1 skype-4.0.0.7-copyright
