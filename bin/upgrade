@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#
+# Basically I want to do a 'yum update' equiv
+# Especially since the massive portage upgrade is a pain to remember
+
+emerge --sync
+
+if [ "$1" == "cron" ]; then
+    emerge --update --deep --with-bdeps=y --newuse world
+else
+    emerge -av --update --deep --with-bdeps=y --newuse world
+fi
