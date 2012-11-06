@@ -76,3 +76,5 @@ x11-themes/gentoo-artwork offensive
 #required by media-gfx/graphviz-2.26.3-r4, required by net-analyzer/ntop-4.0.3, required by ntop (argument)
 >=media-libs/gd-2.0.35-r3 jpeg png fontconfig
 >=mail-client/balsa-2.4.12 gnome libnotify rubrica xface
+#required by media-sound/pulseaudio-1.1-r1[udev], required by media-libs/libcanberra-0.29[pulseaudio], required by gnome-base/libgnome-2.32.1-r1, required by app-office/dia-0.97.2-r1[gnome], required by @selected, required by @world (argument)
+=sys-fs/udev-171-r8 hwdb
